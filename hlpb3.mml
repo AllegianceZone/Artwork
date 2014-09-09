@@ -1,0 +1,26 @@
+<Font|headerFont>CORES<Color|white><Font|helpFont><p><p>
+This is a quick reference document to find your way around the different cores we have in Allegiance currently. Since cores under active development change, sometimes radically, don't consider the strong/weak factions as set in stone - they are what is the status quo now, but not necessarily what will be in 3 months. 
+<p><p>Please note that my aim isn't to list all core differences. That would cause the document to become way too bloated and focused on technical information. It's just the most important things you should know (summarized in a couple sentences). If you want to explore individual cores in greater detail, feel free to examine their documentation on their respective homepages, their forums, or use ICE to check the files out. 
+
+<p><p><Font|subheaderFont>GAME BALANCE<p>
+<Font|helpFont>In order to have interesting games, not only do the teams have to be balanced in terms of the players on each team, but the factions that the 
+teams play with should also be as balanced as possible. If one or two factions were programmed in such a way that they had a distinct advantage 
+over other factions all the time, regardless of the strategies used by the teams, then the game gets boring real fast. What we have seen from 
+experience is that team commanders will opt to choose the best factions they can (which takes away from the variety of the games).
+<p><p>
+<Font|subheaderFont>GAME CORES<p>
+<Font|helpFont>The actual script used to program the settings for each faction is known as a game core. This is a file (presently in .igc format) that is present 
+on both the server and each client computer that determines what characteristics each faction has. Game cores that are publically available are put 
+on the auto update server and are automatically downloaded when you log in to the lobby (or in the case of server admins, when the server starts).
+<p><p>
+The game core file defines what factions will be in that game, what the values of the variables that determine the strengths/weaknesses for each 
+faction are, what the layout of the technology tree for that game will be, the models and skins that faction objects use, and so on. A properly assembled 
+game core strives to incorporate as many game strategies as possible while keeping diversity in the factions.
+<p>
+Game cores are independently developed and contributed to the game. As a result, there are plenty to choose from. Not all game cores will have active 
+servers in the listing, but players need to be able to identify game cores in the server list in order to understand what games are being played where. 
+At present time, this is done by the name of the game server in the listing. The conventions for listing a game core in a server name are included below 
+in each section for a game core. Understanding the differences between game cores will help you better choose which games you want to play in so that you 
+can play in the gameplay style that you enjoy the most.
+
+

@@ -1,0 +1,9 @@
+<Font|headerFont>LAN GAMES<Color|white><Font|helpFont><p><p>
+
+LAN games are also called private games and cannot be accessed through the lobby. To connect to and join a LAN game:<p><p>
+
+    <Bullet|hlpimg1|Launch SOVRoute, following the instruction in the tutorial above.>
+    <Bullet|hlpimg2|Launch Allegiance.>
+    <Bullet|hlpimg3|On the Allegiance main menu, click LAN Games.>
+    <Bullet|hlpimg4|The "Find Server" dialog box appears with the currently running servers. This should be almost instantenous, if the servers aren't there in a few seconds, they won't appear. Don't be fooled by the term "Searching" - it will not find a server that wasn't running at the time you clicked LAN Games.>
+    <Bullet|hlpimg5|If the search is successful, servers that you can access will be listed. Click on the one you want to join, type in your name and join.>

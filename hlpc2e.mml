@@ -1,0 +1,31 @@
+<Font|headerFont>TEAMSPEAK<Color|white><Font|helpFont><p><p>
+
+Some squads currently use TeamSpeak2 as their voice communication device. TeamSpeak is 
+the main organizer of good teams, used both to train newbies and in simple public games 
+where most veterans meet, coordinate, and increase their gaming experience greatly. 
+<p><p>If you want to participate more deeply in Allegiance, it is essential that you get yourself this software. 
+
+<p><p><Font|smallBoldFont>Step by step guide to using TeamSpeak 2 servers.<Font|helpFont>
+
+<p><p><Bullet|hlpimg1|Download the Client version of TeamSpeak 2 from <Hyperlink|www.goteamspeak.com|http://www.goteamspeak.com> (the file is on the top right corner of their main page). Install it on your computer. Make sure you get the RC2 version.>
+
+<p><p><Bullet|hlpimg2|Click on 'Connection - Connect'. You are now in a window which shows all your saved servers used with TeamSpeak 2. Click on Add Server, and enter the following information:>
+
+
+<p><p><Bullet|hlpblank|<Color|yellow>Label:<Color|white><Font|helpFont> Whatever is meaningful to you.>
+<Bullet|hlpblank|<Color|yellow>Server Address:<Color|white><Font|helpFont> ts.dras.us>
+<Bullet|hlpblank|<Color|yellow>Nickname:<Color|white><Font|helpFont> Enter your callsign in this box.>
+<Bullet|hlpblank|<Color|yellow>Allow server to assign nickname:<Color|white><Font|helpFont> This really isn't necessary in our case.>
+<Bullet|hlpblank|<Color|yellow>Anonymous/Registered:<Color|white><Font|helpFont> Unless you registered with the server, which you usually are not allowed to, choose "Registered". Otherwise, choose "Anonymous". You will simply login as a user...>
+<Bullet|hlpblank|<Color|yellow>Server Password:<Color|white><Font|helpFont> We use none.>
+<Bullet|hlpblank|<Color|yellow>Auto-Reconnect:<Color|white><Font|helpFont> That is a useful feature if you sometimes drop from the game and won't want to bother with going back in.>
+<Bullet|hlpblank|<Color|yellow>Default channel/subchannel/password:<Color|white><Font|helpFont> Use the channel "Game: Allegiance" if you're connecting to the mentalhazard server. Otherwise, the pk.dras.us server does not make use of channels other than those created by players themselves as they play.>
+
+<p><p><Bullet|hlpimg3|Click on connect. You should now be connected to the TeamSpeak 2 server. The mentalhazard server has different channels for different games. We use the one for Allegiance. The ts.dras.us server is dedicated to Allegiance, and so you don't necessarily have to join a specific channel, or you can join the channel for your team.>
+
+<p><p><Bullet|hlpimg4|Be sure to use the key activation feature(mouse button 3 recommended as voice activator key for mouse users) so that you don't transmit every noise around you even when you're not speaking. If you absolutely wish to use Voice Activation, be sure to set it high enough so that you don't constantly transmit AND so that you don't re-transmit what others say. It can be very disturbing to hear little noises everytime one touches his microphone even though he doesn't wish to speak. Key activation (Push to talk) is really preferable.>
+
+<p><p><Font|promptFont>TEAMSPEAK OVERLAY<Font|helpFont>
+
+<p><p>The teamspeak overlay (tso) utility allows you to place a small transparent HUD on your Allegiance screen so that you can see who's talking on temspeak. Visit <Hyperlink|http://www.teamspeakoverlay.com|http://www.teamspeakoverlay.com><Color|white> to download the software. This is extremely useful because the person speaking allows you to make better deductions as to what the speaker is speaking about. You can also tell that annoying guy breathing in his mic to correct the problem. 
+<p><p>It is recommended that in the options you align the HUD on the right center of your screen so that it never interferes with Alleg in-game screens (left center align placed the tso HUD over the F6 team names, which is a minor annoyance).

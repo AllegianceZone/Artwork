@@ -1,0 +1,20 @@
+<Font|headerFont>DONATION SYSTEM<Color|white><Font|helpFont><p><p>
+
+The donation system proceeds through the F6 window. You can see a little sign 
+left to the name of each player. Both color and a sign are used in the code. 
+Gold means that the player is receiving income. As a player, you will see your 
+commander with a golden $ sign. He is receiving money from you (gold) and is receiving 
+money from others ($ sign with arrow pointing toward $). Other players will have a grey 
+dollar sign with arrow pointing outward (they are donating to someone). As a commander, 
+you will see a gold circle (you are donating to no one (circle) and are receiving money 
+(gold)). If a player is donating to nobody else, a grey circle is displayed.
+<p><p>
+Players can also give each other money, proceeding by blocks of 100$. If you have money, 
+you can click on a player's name, then click on 'Single Donation', which gives 100$ to that 
+player. A commander can use this system to distribute money to a player who would need to 
+invest in a particular research, for example, a situation discussed further down this page.
+<p><p>
+To stop donating, click on yourself, then on 'Stop Donating'. Whoever you were donating to 
+will receive a message:"Player has stopped donating to you." <Font|smallBoldFont>Don't do this unless you're told to!<Font|helpFont>
+<p><p>
+You can then donate to someone else by clicking on his/her name and then on 'Start Donating'.

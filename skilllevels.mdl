@@ -1,0 +1,4 @@
+// skill levels
+SkillLevelNames = ["Nov. Only", "Adv. Only", "No Nov.", "No Adv.", "Any"];
+SkillLevelMin = [-1, 15, 8, -1, -1];
+SkillLevelMax = [7, 1000, 1000, 14, 1000];

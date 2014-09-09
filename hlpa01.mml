@@ -1,0 +1,22 @@
+<Font|headerFont>FAZ
+<Font|helpFont>
+<p><p><Color|yellow>Tigereye writes:<Color|white> FAZ stands for "Free Allegiance Zone" which is a joining of two terms originally used to segregate this community under Microsoft's rule: "Free Zone" and "Allegiance Zone"
+<p><p>The term is used to describe a new version of Allegiance which is being developed by the community.
+
+<p><p>Until now, everyone has been playing with the Allegiance game written and compiled in 2000 by Microsoft. Since then, no changes have been made to the game.
+
+<p><p>In February 2004, Microsoft released the sourcecode to our community which allowed us to finally start modifying the game however we wanted...unfortunately this code was still written to use a 1999 compiler, and did not offer an easy way to work with it in modern development environments. The code was almost useless to us in its state.
+
+<p><p>Even if we wanted to modify the game, we couldn't because we weren't even able to reproduce regular Allegiance let alone create an enhanced Allegiance.
+
+<p><p>Since then, the FAZ Dev team worked on changing Microsoft's sourcecode to compile with todays compilers under today's development environments. Now we're finally able to create our own stable build of Allegiance. This allows us to finally start adding features requested since the game was released, and correct bugs/errors that have been plaguing us.
+
+<p><p>The first release from the FAZ Dev team does not change much from Microsoft's original. Its purpose is to duplicate the current functionality without introducing new bugs or problems. However, a few simple changes have been made to increase stability and add small much-needed enhancements: 
+    <p><p><Bullet|hlpbullet|Allegiance is built against a modern compiler, offering slightly increased speeds and better interfaces with modern hardware.>
+    <p><p><Bullet|hlpbullet|Sounds may sound clearer, and visuals may seem crisper depending on your hardware and drivers.>
+    <p><p><Bullet|hlpbullet|SOVLogin has been removed from the login sequence, and its core functions have been written into ASGS and Allegiance itself>
+    <p><p><Bullet|hlpbullet|When logging in with ASGS, you no longer have the ability to modify your callsign within Allegiance which used to cause "Authentication=2" errors.>
+    <p><p><Bullet|hlpbullet|The in-base Ship Loadout screen no longer requires 800x600 resolution. When docking/launching, your monitor's resolution will no longer switch>
+    <p><p><Bullet|hlpbullet|Missing "Game Information" was added to the Game Info screen (Esc, I)>
+    <p><p><Bullet|hlpbullet|The Teleport Probe's 1-in-6 chance of "Random destruction" has been removed. All teleport probes will always work, and no longer have any chance of detonating>
+    <p><p><Bullet|hlpbullet|The "Help" screen has been rewritten to include up-to-date help information>

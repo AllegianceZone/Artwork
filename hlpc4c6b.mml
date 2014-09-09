@@ -1,0 +1,21 @@
+<Font|headerFont>EXAMPLES<Color|white><Font|helpFont><p><p>
+<Font|smallBoldFont>Bad Example<Color|white><Font|helpFont><p><p>
+
+The commander has $10,000. He invests into upgrades, $2,000 each. He can therefore 
+research 5 upgrades, which will be ready in ten minutes. In order to complete 20 upgrades, 
+a total of forty minutes will be required.
+<p><p>
+<Font|smallBoldFont>Good Example<Color|white><Font|helpFont><p><p>
+
+The commander has $10,000. He invests into upgrades, $2,000 each. However, he uses 
+an investor intermediate. He gives the investor $500. The investor purchases an upgrade 
+only partially. In this case, one quarter of the upgrade. The commander and investor repeat 
+20 times, using up the $10,000. This means that 20 upgrades are now underway, but not to 
+completion. Since it takes time for the upgrade to complete itself, later income will be 
+used to continue the other upgrades. So as long as income is regular, it will only take ten 
+minutes for the 20 upgrades to be completed <Color|green>(one quarter of the time from example 1!!)<Color|white>.
+<p><p>
+Now this system is used slightly differently. The investor simply stops donating. Therefore, he can invest his 
+small amounts of income in multiple areas without having the commander give him money slowly each time, because he 
+is receiving his own money from the other sources of income. The commander also invests the bigger amounts of money, 
+but in construction, which takes the same time for all factions (90-120 seconds).

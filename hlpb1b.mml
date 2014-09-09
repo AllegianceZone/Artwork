@@ -1,0 +1,12 @@
+<Font|headerFont>MOTD AND AUTO-UPDATE<p><p><Color|white>
+
+<Font|helpFont>Message of the Day is the scrolling message that appears when you click on Free Games. It provides the latest information on Allegiance. 
+The message will be routinely updated with the latest events, updates and other announcements. At times, the information presented here 
+is critical to be able to play the game and you should pay attention when the MOTD changes. The convention is to display the update date 
+at the top of all messages and the background planet also changes each time the MOTD is updated.<p><p>
+
+On this same screen, Allegiance engages the auto-update system. The auto-update system downloads the allegiance.cfg file and the MOTD from 
+the autoupdate server. If the FileList.txt on the server does not match the local FileList.txt in your Allegiance directory, it is retrieved 
+and only then the files in your Allegiance directory are compared to those on the autopdate server. <p><p>While this is automatic whenever there 
+is an update (since FileList.txt changes), you can also use this mechanism to help you restore missing/corrupt files. This is done by deleting 
+FileList.txt in your Allegiance directory before you start Allegiance. 

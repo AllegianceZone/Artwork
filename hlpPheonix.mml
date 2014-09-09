@@ -1,0 +1,41 @@
+<Color|yellow>Shizoku's DN 00.04.50 Faction Strategies<Color|white><p><p>
+<Font|headerFont>Pheonix<p><p><Image|hlpnixlogo>
+<p><p><Font|subheaderFont>FACTION PERKS
+    <p><p>    
+    <Bullet|hlpbullet|Strong Ship Sheild(1.25)>
+    <Bullet|hlpbullet|Strong Station Sheild(1.3)>
+    <Bullet|hlpbullet|Quick turning Y axis (1.5), augmented by (1.1) ship turn torque, (1.5) ship roll rate adn twice the roll torque.>
+    <Bullet|hlpbullet|Good Sensors(1.1)>
+    <Bullet|hlpbullet|Excellent Missile Track(1.2)>
+    <Bullet|hlpbullet|Great Economy(He3 Yield 1.1, He3 Speed 1.1)>
+    <Bullet|hlpbullet|Extra Missiles>
+    <Bullet|hlpbullet|Transceiver and Assault tech>
+
+<p><p><Font|subheaderFont>FACTION WEAKNESSES
+    <p><p>    
+    <Bullet|hlpbullet|Avg Accel(1.0)>
+    <Bullet|hlpbullet|Weaker Ship Hull(.9)>
+    <Bullet|hlpbullet|Weaker Station Hull(.9)>
+    <Bullet|hlpbullet|Weak Missiles(.95)>
+    <Bullet|hlpbullet|Nanite only works on Stations, Miners, and Constructors>
+    <Bullet|hlpbullet|3min research time>
+<p><p><Font|subheaderFont>FACTION SPECIFIC TECH
+    <p><p>
+    <Bullet|hlpbullet|<Font|smallBoldFont>Assault Shields<Font|helpFont> - An incredabely powerful shield mounted on Bombers and HTT's. Requires the equivelant version of Medium Shield>
+    <Bullet|hlpbullet|<Font|smallBoldFont>Transceiver<Font|helpFont> - The key to unlocking a great deal of special tech. A base that generates 180 credits per min, that you may launch from, rip to, but not dock at. Requires Garrison.>
+    <Bullet|hlpbullet|<Font|smallBoldFont>Vanguard<Font|helpFont> - A powerfull single pilot version of GT's Mustang. Comes with Dual Mini AC/LC, 15mrm class missiles, and regular booster. Requires Gunship, Transceiver, Tech base.>
+    <Bullet|hlpbullet|<Font|smallBoldFont>Vulcan Cannon<Font|helpFont> - An extremely powerfull weapon mountable on almost everything, including turrets. Uses massive amounts of both energy and ammo making it less than economical for long term whoring. Requires Gatt2, Sniper1, Transciever for Vulcan 1; Gatt3, Sniper2, Transceiver for Vulcan2.>
+    <Bullet|hlpbullet|<Font|smallBoldFont>Laser Cannon<Font|helpFont> - A powerfull energy turret. Laser cannon can rip apart almost any small, or medium class ship without problem. Ideal for both Heavy Bomber and HTT runs. Requires AC2, Sniper1, Transceiver for Laser Cannon 1; AC3, Sniper2, Transceiver for Laser Cannon2.>
+    <Bullet|hlpbullet|<Font|smallBoldFont>Attack Drones<Font|helpFont> - Simple AI powered drones for each tech path, including heavy scouts. Requires Transceiver, Adv Tech base, the applicable Adv Ship for each drone.>
+    <Bullet|hlpbullet|<Font|smallBoldFont>Laser Blossom<Font|helpFont> - Ideal for anti-capital ship. Laser blossoms shoot out huge streams of seemingly random lasers, doing damage dependent on how close and how large the enemy ship is(the more lasers hitting the more damage). Mountable on SF's, Scouts, Vanguards, Gunships, and a few other things. Requires Prox2, Sniper1, Transceiver for Laser Blossom 1; Prox3, Sniper2, Transceiver for Laser Blossom 2.>
+    <Bullet|hlpbullet|<Font|smallBoldFont>Nova Bomb Drone<Font|helpFont> - A mobile bomb drone capable of destroying bases, capital ships, and asteroids in one blow. Damage is finite, and limited to a 3k range(getting weaker the further you are away from it). Works best placed directly next to the intended target. Requires Heavy Class Drydock, Transceiver.>
+<p><p><Font|subheaderFont>IDEAL SETTINGS
+    <p><p><Bullet|hlpbullet|Because of Pheonix's excellent mining speed and yield it can survive and compete with factions like Belters on low money settings, and excel with factions like Rixian Unity and Giga Corp. on high money settings.>
+<p><p><Font|subheaderFont>FACTION STRATEGIES
+    <Bullet|hlpbullet|<Font|smallBoldFont>Shields<Font|helpFont> - before we go into strats, Pheonix cannot be nanned, so therefor it's shields are incredebly powerful. This Faction has the strongest shields and weakest hulls. This does not make them invincable, so going through camped aleph's is still suicidal with any level of tech. Deprobing is extremely critical, and even if you can't nan, one ship to push a bomber or HTT will make a world of a difference.>
+    <Bullet|hlpbullet|<Font|smallBoldFont>Bomb Rush<Font|helpFont> - Pheonix's bomber rush is different than other factions because instead of having the entire team in nans, nanning one bomber, you get the entire team in bombers and turrets. As specified above, a pusher and a deprober is a must because if you are spotted you can still get taken down by a camped Dis1 and proxed aleph.>
+    <Bullet|hlpbullet|<Font|smallBoldFont>Shipyard Rush<Font|helpFont> - Pheonix does not need to buy a tech base to get a shipyard or any of it's tech. This allows a quick and powerfull shipyard rush, just as so long as the miners survive. The drawback to this strat is that it takes a bit longer for Pheonix to research tech, leaving you with basic tech for a while, during that time you can loose miners or die to a bomb rush.>
+    <Bullet|hlpbullet|<Font|smallBoldFont>Vanguard Rush<Font|helpFont> - Recommended to continue expanding with this strat as with any strats. Purchase a tech, upgrade the garrison for Gunship, while this is researching build a transceiver on an empty He3 rock. Once this is up garnish the Vanguards with Quickfire 3, and Sup upgrades like AC2 and 3. Vanguards can also mount a Mini laser cannon. Use Van's to push con's into enemy sectors, camp bases for easy bombing. A good team will know when to step out of a Van and hurt the enemies econ. This strat also goes well with Tac for more of an offence on the enemies miners, using Vanguards for defence. Drawbacks can lead to excessive whoring and not doing anything usefull to end the game, this results in the enemy getting things like SB's, HTT's, and you losing.>
+    <Bullet|hlpbullet|<Font|smallBoldFont>Common Strat's<Font|helpFont> - Pheonix is not limited to it's extra tech. It can do TAC, EXP, and SUP just as good as any other faction, perhaps with more emphasis on deprobing to utilize the powerfull shields.>
+
+

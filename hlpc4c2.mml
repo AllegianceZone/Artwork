@@ -1,0 +1,15 @@
+<Font|headerFont>PAY SPLIT<Color|white><Font|helpFont><p><p>
+
+Any income is split into equal amounts handed in to every player, who may then donate. 
+This goes for ANY income except cash floating in space. Let's say your team of 10 players 
+receives 7800$ as a full miner just docked. Every player will receive 780$. The default 
+option is that each player donates to the commander, who receives 7800$ and can then proceed 
+to do his/her job. If a pilot picks up a 500$ cashbox in space, the default option is that 
+this money will go straight to the commander as well.<p><p>
+
+Often when teams are rich (GigaCorp dominating a long game with plentiful resources can get 
+incredibly rich), players stop donating. This results in every income NOT being donated to the 
+commander. The income is split in equal amounts and given to each player, who can do what they 
+want with it (buy a ship, do research, etc.). <p><p><Color|red>NOTE: Not donating in a regular game will get 
+you in trouble, as the team wants the commander to be able to do his job, which means he 
+needs everyone's money.

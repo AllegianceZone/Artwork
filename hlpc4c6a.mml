@@ -1,0 +1,10 @@
+<Font|headerFont>WITH BIOS<Color|white><Font|helpFont><p><p>
+
+If you're playing as Bios (this can be done with other teams as well, but is most useful to Bios), 
+the research time is ten minutes (600 seconds). This means that, because of the way the F5 menu 
+(investments) works, a commander will have to invest as much as he can into a single option (a research 
+upgrade, for example) when he clicks 'Invest'. This results in all his money taking 10 minutes before paying 
+off. His other option is to hand money to an investor, who can invest little amounts of money into multiple 
+upgrades, resulting in a much better use of the money. In Allegiance, investing even 1$ into a research will 
+begin the research, but only for 1$'s worth. If you place $2,500 in a $5,000 research, the research will 
+proceed until it is halfway done, at which point you must invest money again.

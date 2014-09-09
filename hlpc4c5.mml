@@ -1,0 +1,6 @@
+<Font|headerFont>PLAYER'S OPTIONS<Color|white><Font|helpFont><p><p>
+
+<Bullet|hlpteamdeposit|Click on your name, then here, to stop donating.><p><p>
+<Bullet|hlpsingledonation|Donate 100$ to selected player.><p><p>
+<Bullet|hlptakemeto|Open chatbox with player as recipient. Center view on selection when in station. Can order utility ships with this.><p><p>
+<Bullet|hlpchangewing|Use this to go to Command wing, or any other .>
