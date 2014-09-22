@@ -1,6 +1,0 @@
-use "model";
-object =
-    TextureGeo(
-        ImportXFile("sphere", 0),
-        ImportImage("build1bmp", false)
-    );

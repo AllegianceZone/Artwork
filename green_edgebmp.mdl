@@ -1,2 +1,0 @@
-use "model";
-green_edgebmp = ImportImageFromFile("green_edge.png", true);

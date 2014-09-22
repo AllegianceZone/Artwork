@@ -152,11 +152,6 @@ mouseButtonCommandMap =
     ];
 buttonCommandMap =
     [
-        (0, 2, 50),
-        (0, 0, 55),
-        (0, 1, 56),
-        (0, 3, 96),
-        (0, 4, 128)    
     ];
 numericValuesNew =
     [
