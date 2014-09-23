@@ -31,7 +31,7 @@ backButtonPane       = SoundButtonPane(ImportImage("btnbackbmp",	true),  ButtonN
 newGameButtonPane    = ButtonPane(ImportImage("btnnewmissionbmp",	false), ButtonNormal, false);
 filterButtonPane     = ButtonPane(ImportImage("btnfilterbmp",		false), ButtonNormal, false);
 findPlayerButtonPane = ButtonPane(ImportImage("btnfindbmp",			false), ButtonNormal, false);
-//detailsButtonPane  = ButtonPane(ImportImage("btndetailsbmp",		false), ButtonNormal, false);
+detailsButtonPane  = ButtonPane(ImportImage("btndetailsbmp",		false), ButtonNormal, false);
 joinButtonPane       = ButtonPane(ImportImage("btnjoinbmp",			false), ButtonNormal, false);
 
 //
