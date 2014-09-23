@@ -78,10 +78,10 @@ hoverString =
         emptyString,
         [
             ( 1, "Return to the Allegiance main menu."),
-            ( 2, "See a list of games currently available on the Allegiance Zone."),
+            ( 2, "See a list of games currently available at Allegiance Zone."),
             ( 3, "Access your own player statistics."),
-            ( 4, "Access the statistics of all Allegiance squads, and create and manage your own."),
-            ( 5, "Connect to the Allegiance Web page on the MSN Gaming Zone."),
+            ( 4, "Access the statistics of all Allegiance squads, create and manage your own."),
+            ( 5, "Connect to the Allegiance Zone website."),
             ( 6, "Access the statistics of all Allegiance Zone players."),
             ( 7, "See the current schedule of Allegiance Zone events.")
         ]
@@ -96,7 +96,7 @@ hoverPane  = AnimatedImagePaneRect(hoverImage, Rect(0, -35, 215, 0));
 
 screen =
     ScreenPane(
-        ImportImage("zoneclubscreenbmp", false),
+        ImportImageFromFile("zoneauscreenbmp.png", false),
         [   
             (titlePane,                 Point(15, 15)),
             (captionPane,               Point(75, 50)),
