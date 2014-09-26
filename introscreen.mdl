@@ -18,14 +18,14 @@ trainBigButtonPane      = ButtonPane(ImportImage("btnmaintrainbigbmp", true),   
 
 playLanButtonPane       = ButtonPane(ImportImage("btnmainplaylanbmp", true),    ButtonNormal, false);
 playIntButtonPane       = ButtonPane(ImportImage("btnmainplayintbmp", true),    ButtonNormal, false);
-//zoneClubButtonPane      = ButtonPane(ImportImage("btnmainplayzonebmp", true),   ButtonNormal, false);
+zoneClubButtonPane      = ButtonPane(ImportImage("btnmainplayzonebmp", true),   ButtonNormal, false);
 
 //trainButtonPane           = ButtonPane(ImportImage("btnmaintrainbmp", true),      ButtonNormal, false);
 zoneWebButtonPane       = ButtonPane(ImportImage("btnmainzonewebbmp", true),    ButtonNormal, false);
 optionsButtonPane       = ButtonPane(ImportImage("btnmainkeyconbmp", true),     ButtonNormal, false);
 introButtonPane         = ButtonPane(ImportImage("btnmainintrobmp", true),      ButtonNormal, false);
 creditsButtonPane       = ButtonPane(ImportImage("btnmaincreditsbmp", true),    ButtonNormal, false);
-//quickstartButtonPane  = ButtonPane(ImportImage("btnmainquickstartbmp", true), ButtonNormal, false);
+quickstartButtonPane  = ButtonPane(ImportImage("btnmainquickstartbmp", true), ButtonNormal, false);
 
 exitButtonPane          = ButtonPane(ImportImage("btnmainexitbmp",  true),      ButtonNormal, false);
 helpButtonPane           = ButtonPane(ImportImage("btnhelpbmp",      true),     ButtonNormal,   false);
@@ -40,8 +40,8 @@ hoverInfoString =
         emptyString,
         [
             ( hoverPlayLan   , "Play a free game on a private server located on a LAN."  ),
-            ( hoverPlayInt   , "Play a free game on a public server listed on the MSN Gaming Zone." ),
-            //( hoverZoneClub  , "Play a game as a member of the Allegiance Zone."),
+            ( hoverPlayInt   , "Play a free game on a public server listed on the Allegiance Zone." ),
+            ( hoverZoneClub  , "Play a ranked game as a member of the Allegiance Zone."),
             ( hoverTrain     , "Play a training mission."         ),
             ( hoverZoneWeb   , "Connect to the Allegiance Web page for the latest Allegiance information, including event schedules, strategies, and help."        ),
             ( hoverOptions   , "Customize the graphics, sound, and controls in Allegiance." ),
@@ -61,7 +61,7 @@ hoverInfoPane  = AnimatedImagePaneRect(hoverInfoImage, Rect(0, -50, 230, 0));
 
 // KGJV test
 geoPosition = Point(0, 0);
-geoSize     = Point(0, 0);
+geoSize     = Point(800, 500);
 geoModel = "alleglogo"; // TODO need a cool 3D logo
 
 // bkground image.
@@ -81,7 +81,7 @@ screen =
             
             (trainBigButtonPane,    Point( 9, 535)),
             
-            //(zoneClubButtonPane,    Point( 86, 535)),
+            (zoneClubButtonPane,    Point( 86, 535)),
             (playIntButtonPane,     Point(151, 535)),
             (playLanButtonPane,     Point(217, 535)),
             
