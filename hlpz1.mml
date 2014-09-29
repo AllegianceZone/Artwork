@@ -24,7 +24,7 @@
 <Color|secondaryLinkColor>EW<Color|hyperlinkColor>Energy Weapon<Color|white>(weapon type)<p>
 <Color|secondaryLinkColor>Exp<Main|hlpd2|Expansion><Color|white>(station, tech path)<p>
 <p><Font|subheaderFont>F<p><Font|smallBoldFont>
-<Color|secondaryLinkColor>FAZ<Color|hyperlinkColor>Free Allegiance Zone<Color|white>(weapon type)<p>
+<Color|secondaryLinkColor>Allegiance Zone<Color|hyperlinkColor>Allegiance Zone<Color|white>(weapon type)<p>
 <Color|secondaryLinkColor>fig<Main|hlpd3a|Fighter><Color|white>(ship)<p>
 <p><Font|subheaderFont>G<p><Font|smallBoldFont>
 <Color|secondaryLinkColor>GA<Color|hyperlinkColor>Global Attributes <Color|white>(improves base values, ex: ship speed)<p>
