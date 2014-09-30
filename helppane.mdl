@@ -335,8 +335,8 @@ secondaryPage          = PagePane(Point(309, 62), secondaryPageScrollBar);
 backButton             = SoundButtonPane(ImportImage("btnprevioustopicbmp",  true), ButtonNormal, false, negativeButtonClickSoundId);
 closeButton            = SoundButtonPane(ImportImage("btnclosepanebmp", true), ButtonNormal, false, negativeButtonClickSoundId);
 
-titlePane			= StringPane("FAZ HELP MENU", white,	Point(300, 30), JustifyLeft, hugeBoldFont);
-bottomPane			= StringPane("www.allegacademy.org", white,	Point(300, 30), JustifyLeft, largeBoldFont);
+titlePane			= StringPane("AZ HELP MENU", white,	Point(300, 30), JustifyLeft, hugeBoldFont);
+bottomPane			= StringPane("www.allegiancezone.com", white,	Point(300, 30), JustifyLeft, largeBoldFont);
 //academyBar          = ImagePane( ImportImage("hlpacademybarbmp",true), [] );
 helpPane = 
     ImagePane(
