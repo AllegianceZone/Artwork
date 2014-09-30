@@ -35,7 +35,7 @@ Tip25 = "As with all communities, Allegiance has 'good apples' and 'bad apples.'
 Tip26 = "Enemy nans will often be with important targets. Attack the nans first because any damage you attempt to inflict on the main target will be instantly repaired.)";
 Tip27 = "If you are too close to a friendly con it will think you're on a collision course, and try to avoid you. This can delay it's building time.";
 Tip28 = "Both shields and missiles raise your radar signature, making it easier for the enemy to spot you.  Keep them in cargo when you don't need them.";
-Tip29 = "Picking up teammates who are in a lifepod transports them instantly back to base, where they can immediately launch to help defend, attack, or whatever again.";
+Tip29 = "Picking up teammates who are in an escape pod transports them instantly back to base, where they can immediately launch to help defend, attack, or whatever again.";
 Tip30 = "If no one probes then the enemy will always surprise you, always have the upper hand, and your team will lose. This is a fact.";
 Tip31 = "Exploring with an int or fig does not work because their scan range is very low.";
 Tip32 = "Do not attempt to command on the regular server until you have a LOT of experience. You need to know other aspects of the game well to be a successful commander.";
@@ -48,10 +48,10 @@ Tip38 = "Commanders use the team's income as they feel is best for the team.  No
 Tip39 = "Pay attention to the map preview shown before entering a game.  Learn what each map looks like and you will be able to find alephs much faster.";
 Tip40 = "It is strongly recommended to remap the default keys to something comfortable for you. *NEVER* use the keyboard to fly! Always use your mouse, or a joystick if you prefer. The keyboard should supplement your primary input device.";
 Tip41 = "Use your I key to toggle between Radar modes. None-target only-default-all";
-Tip42 = "Did you know you can greatly improve the graphics in Allegiance?  Visit the Art and Ingame Content forum at FreeAllegiance.org for information on downloading high resolution textures.";
+Tip42 = "Did you know you can greatly improve the graphics in Allegiance?  Visit the allegiancezone.com forums for information on downloading high resolution textures.";
 Tip43 = "If you are too close to a friendly con it will think you're on a collision course, and try and avoid you. This can delay its building time allowing the enemy the precious seconds needed to destroy it.";
 Tip44 = "Picking up teammates who are in a lifepod transports them instantly back to base, where they can immediately launch to help defend, attack, or whatever again.";
-Tip45 = "Killing an enemy life pod does not increase your kill count. All it does is return the enemy pilot straight back to base and resets his kill bonus.";
+Tip45 = "Killing an enemy escape pod does not increase your kill count. All it does is return the enemy pilot straight back to base and resets his kill bonus.";
 
 ///////////////////////////////////////////////////////////////////////////////
 // civ-specific strings
