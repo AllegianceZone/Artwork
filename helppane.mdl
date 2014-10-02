@@ -21,7 +21,7 @@ topics =
 		 		("Strategy Basics", "hlpa1a", "hlpasub", []),
                      	("Your Role", "hlpa1b", "hlpasub", [])
 			]),
- 			("FAZ", "hlpa01", "hlpblanksub", []),
+ 			("AZ", "hlpa01", "hlpblanksub", []),
                 	("Learning", "hlpa2", "hlpblanksub",
                  	[
 		 		("Training Missions", "hlpa2a", "hlpblanksub", []),
@@ -31,7 +31,7 @@ topics =
             		("Help Menu", "hlpa2e", "hlpblanksub", [])
                   ]),
 			("Rules of Conduct", "hlpa3", "hlpblanksub", []),
-			("FAZ Credits", "hlpa4", "hlpblanksub", [])
+			("AZ Credits", "hlpa4", "hlpblanksub", [])
 		]
 
        ),
