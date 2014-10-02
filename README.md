@@ -1,5 +1,5 @@
 Artwork
 ==================
 
-Assets used by Allegiance
+Assets used by Allegiance in original (regular) quality
 
