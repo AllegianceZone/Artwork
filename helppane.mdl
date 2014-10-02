@@ -26,7 +26,7 @@ topics =
                  	[
 		 		("Training Missions", "hlpa2a", "hlpblanksub", []),
             		("Newbie Servers", "hlpa2b", "hlpblanksub", []),
-		 		("Academy", "hlpa2c", "hlpblanksub", []),
+		 		("Training", "hlpa2c", "hlpblanksub", []),
                         ("@Cadet", "hlpa2d", "hlpblanksub", []),
             		("Help Menu", "hlpa2e", "hlpblanksub", [])
                   ]),
