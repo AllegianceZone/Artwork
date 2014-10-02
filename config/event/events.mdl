@@ -1,0 +1,4 @@
+events = [
+ ("Oct. 25th, 2014", "23:00 GMT", "Imago's Event", "Custom ship decals will be able to be unlocked! (click!)", "http://forum.allegiancezone.com/t/imagos-dev-event/462?in-game=1", ["tailart.png","nosearthead.png","tailarthead.png","noseart.png","event462.mml"]),
+ ("Oct. 26th, 2014", "18:00 GMT", "Sun. Squad Game", "MSRG vs AZ - Snowflake - PC6 - US West AZ1", "http://forum.allegiancezone.com/t/sunday-squad-game-msrg-vs-az/463?in-game=1", ["msrg.png","azone.png","event463.mml"])
+];

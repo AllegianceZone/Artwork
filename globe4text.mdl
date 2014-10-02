@@ -1,2 +1,0 @@
-use "model";
-object = ImportXFile("globe4", 0);
