@@ -250,7 +250,7 @@ captionPane         = StringPane("SELECT A SQUAD IN THE LIST BELOW TO VIEW FURTH
 
 screen =
     ScreenPane(
-        ImportImage("squadsscreenbmp", false),
+        ImportImageFromFile("squadsscreenbmp.png", false),
         [
 			(titlePane,					Point(15, 15)),
 			(captionPane,				Point(75, 50)),
