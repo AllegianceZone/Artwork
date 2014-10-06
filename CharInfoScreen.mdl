@@ -165,7 +165,7 @@ hoverString =
             (21, "Message21"),
             (22, "Message22"),
             (23, "Takes you to the Zone Games List."),
-            (24, "Takes you to the Allegiance Web Page."),
+            (24, "Takes you to the Allegiance Zone webpage."),
             (25, "When you became a pilot."),
             (26, "Message26")
         ]

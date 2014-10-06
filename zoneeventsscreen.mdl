@@ -59,7 +59,7 @@ hoverString =
             ( 2, "See a list of games currently available on the Allegiance Zone."),
             ( 3, "Access the statistics of the currently selected player."),
             ( 4, "Access the statistics of all Allegiance squads."),
-            ( 5, "Connect to the Allegiance Web page on the MSN Gaming Zone."),
+            ( 5, "Connect to the Allegiance Zone webpage."),
             ( 6, "The date the event will start."),
             ( 7, "The time the event will start."),
             ( 8, "The name of the event."),

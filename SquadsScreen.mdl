@@ -151,7 +151,7 @@ hoverString =
             ( 2, "See a list of games on the Allegiance Zone."),
             ( 3, "Access the statistics of the currently selected player."),
             ( 4, "Access current selected player's location on Leaderboard."),
-            ( 5, "Connect to the MSN Gaming Zone Allegiance Page through your browser."),
+            ( 5, "Connect to the Allegiance Zone webpage through your browser."),
             ( 6, "View the previous 20 squads."),
             ( 7, "View the next 20 squads."),
             ( 8, "Reject the selected player from the squad."),
