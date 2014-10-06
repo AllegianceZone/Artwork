@@ -133,7 +133,7 @@ hoverPane  = AnimatedImagePaneRect(hoverImage, Rect(0, -35, 245, 0));
 
 screen =
     ScreenPane(
-        ImportImage("leaderboardbgbmp", false),
+        ImportImageFromFile("leaderboardbgbmp.png", false),
         [
             (titlePane,                 Point( 15,  15)),
             (captionPane,               Point( 75,  42)),

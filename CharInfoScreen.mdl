@@ -191,7 +191,7 @@ captionPane         = StringPane("THE FOLLOWING INFORMATION DETAILS THE PILOT YO
 
 screen =
     ScreenPane(
-        ImportImage("charinfoscreenbmp", false),
+        ImportImageFromFile("charinfoscreenbmp.png", false),
         [
 			(titlePane,					Point(15, 15)),
 			(captionPane,				Point(75, 50)),
