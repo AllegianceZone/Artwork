@@ -66,7 +66,7 @@ hoverString =
             (10, "Return to the Allegiance Zone screen."),
             (11, "Create and customize a new game on a Zone server."),
             (12, "Designate the game types that appear in the Games List."),
-            (13, "Locate an online Allegiance Zone member on the MSN Gaming Zone."),
+            (13, "Locate an online Allegiance Zone member on the servers."),
             (14, "Display all details on the currently selected game."),
             (15, "Join the currently selected game."),
             (16, "Filter games by type of Countdown."),
