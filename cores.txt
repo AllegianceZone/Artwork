@@ -1,4 +1,4 @@
-55
+54
 PCore006
 warpcorex11
 wc_01
@@ -11,7 +11,6 @@ tcor_02
 tcor_03
 raumcore
 rps55
-static_core
 sw_a102
 sw_a103
 racecore
